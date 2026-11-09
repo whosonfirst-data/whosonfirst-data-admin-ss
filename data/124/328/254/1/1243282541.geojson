@@ -41,7 +41,7 @@
         "gn:id":8377056
     },
     "wof:country":"SS",
-    "wof:geomhash":"01d69250b5e73e4dec5f998e0284d068",
+    "wof:geomhash":"f34e252a21d041854c257ef750e2771b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,5 +67,5 @@
     33.12730999999999,
     8.70165
 ],
-  "geometry": {"coordinates":[33.12730999999999,8.70165],"type":"Point"}
+  "geometry": {"coordinates":[33.12731,8.70165],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Kowich"
     },
     "wof:country":"SS",
-    "wof:geomhash":"16e4bd387a5f401f952d4e128cfe85e9",
+    "wof:geomhash":"1246a00ca60d5a06e9e06fbf47028e34",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     30.42842000000001,
     6.70553
 ],
-  "geometry": {"coordinates":[30.42842000000001,6.70553],"type":"Point"}
+  "geometry": {"coordinates":[30.42842,6.70553],"type":"Point"}
 }
