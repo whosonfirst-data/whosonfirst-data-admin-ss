@@ -1,0 +1,74 @@
+{
+  "id": 9895057435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1378,4.78939,29.1378,4.78939",
+    "geom:latitude":4.78939,
+    "geom:longitude":29.1378,
+    "iso:country":"SS",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13132871: name \"Ibba Centre\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13132871"
+        },
+        {
+            "citation":"GeoNames populated place 13132871: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13132871"
+        },
+        {
+            "citation":"GeoNames populated place 13132871: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13132871"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091914701 (Ibba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657,
+        85676945,
+        102191573,
+        1091914701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13132871
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"908679aa3d681d8213a9e4d01e287357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914701,
+            "locality_id":9895057435,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":9895057435,
+    "wof:lastmodified":1795735094,
+    "wof:name":"Ibba Centre",
+    "wof:parent_id":1091914701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1378,
+    4.78939,
+    29.1378,
+    4.78939
+],
+  "geometry": {"coordinates":[29.1378,4.78939],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895057373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.50624,4.88239,33.50624,4.88239",
+    "geom:latitude":4.88239,
+    "geom:longitude":33.50624,
+    "iso:country":"SS",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12547705: name \"Najie\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12547705"
+        },
+        {
+            "citation":"GeoNames populated place 12547705: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12547705"
+        },
+        {
+            "citation":"GeoNames populated place 12547705: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12547705"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091913517 (Kapoeta North), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657,
+        85676975,
+        102191573,
+        1091913517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12547705
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"1fd32be9c602cfedf17a59ac738d2bf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913517,
+            "locality_id":9895057373,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":9895057373,
+    "wof:lastmodified":1795735094,
+    "wof:name":"Najie",
+    "wof:parent_id":1091913517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.50624,
+    4.88239,
+    33.50624,
+    4.88239
+],
+  "geometry": {"coordinates":[33.50624,4.88239],"type":"Point"}
+}

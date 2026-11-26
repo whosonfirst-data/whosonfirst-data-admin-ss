@@ -1,0 +1,74 @@
+{
+  "id": 9895057369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.79151,5.12457,33.79151,5.12457",
+    "geom:latitude":5.12457,
+    "geom:longitude":33.79151,
+    "iso:country":"SS",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12547326: name \"Mogos\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12547326"
+        },
+        {
+            "citation":"GeoNames populated place 12547326: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12547326"
+        },
+        {
+            "citation":"GeoNames populated place 12547326: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12547326"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091914791 (Kapoeta East), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657,
+        85676975,
+        102191573,
+        1091914791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12547326
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"b58424fd527b99ce9ace2d3025e9e2b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914791,
+            "locality_id":9895057369,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":9895057369,
+    "wof:lastmodified":1795735094,
+    "wof:name":"Mogos",
+    "wof:parent_id":1091914791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.79151,
+    5.12457,
+    33.79151,
+    5.12457
+],
+  "geometry": {"coordinates":[33.79151,5.12457],"type":"Point"}
+}

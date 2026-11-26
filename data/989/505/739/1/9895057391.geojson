@@ -1,0 +1,74 @@
+{
+  "id": 9895057391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.53396,4.93666,33.53396,4.93666",
+    "geom:latitude":4.93666,
+    "geom:longitude":33.53396,
+    "iso:country":"SS",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12557990: name \"Nawoyamuria\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12557990"
+        },
+        {
+            "citation":"GeoNames populated place 12557990: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12557990"
+        },
+        {
+            "citation":"GeoNames populated place 12557990: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12557990"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091913517 (Kapoeta North), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657,
+        85676975,
+        102191573,
+        1091913517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12557990
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"49b67be52dff3f60e5e4248977bd42e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913517,
+            "locality_id":9895057391,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":9895057391,
+    "wof:lastmodified":1795735094,
+    "wof:name":"Nawoyamuria",
+    "wof:parent_id":1091913517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.53396,
+    4.93666,
+    33.53396,
+    4.93666
+],
+  "geometry": {"coordinates":[33.53396,4.93666],"type":"Point"}
+}

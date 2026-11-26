@@ -1,0 +1,74 @@
+{
+  "id": 9895057438,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.60079,8.42029,28.60079,8.42029",
+    "geom:latitude":8.42029,
+    "geom:longitude":28.60079,
+    "iso:country":"SS",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13411913: name \"Malwal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13411913"
+        },
+        {
+            "citation":"GeoNames populated place 13411913: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13411913"
+        },
+        {
+            "citation":"GeoNames populated place 13411913: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13411913"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091916123 (Tonj North), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657,
+        85676965,
+        102191573,
+        1091916123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13411913
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"24b061a263f1d7818b52b6caf87cc273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916123,
+            "locality_id":9895057438,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":9895057438,
+    "wof:lastmodified":1795735094,
+    "wof:name":"Malwal",
+    "wof:parent_id":1091916123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.60079,
+    8.42029,
+    28.60079,
+    8.42029
+],
+  "geometry": {"coordinates":[28.60079,8.42029],"type":"Point"}
+}

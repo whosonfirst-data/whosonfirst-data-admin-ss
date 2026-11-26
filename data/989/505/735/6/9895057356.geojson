@@ -1,0 +1,74 @@
+{
+  "id": 9895057356,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.93909,6.05608,29.93909,6.05608",
+    "geom:latitude":6.05608,
+    "geom:longitude":29.93909,
+    "iso:country":"SS",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 369555: name \"Mvolo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/369555"
+        },
+        {
+            "citation":"GeoNames populated place 369555: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/369555"
+        },
+        {
+            "citation":"GeoNames populated place 369555: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/369555"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091915945 (Mvolo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657,
+        85676945,
+        102191573,
+        1091915945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369555
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"8a69c7b90fefa6a65e17482112e28f10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915945,
+            "locality_id":9895057356,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":9895057356,
+    "wof:lastmodified":1795735094,
+    "wof:name":"Mvolo",
+    "wof:parent_id":1091915945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.93909,
+    6.05608,
+    29.93909,
+    6.05608
+],
+  "geometry": {"coordinates":[29.93909,6.05608],"type":"Point"}
+}

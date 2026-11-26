@@ -1,0 +1,74 @@
+{
+  "id": 9895057415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.77231,5.49875,34.77231,5.49875",
+    "geom:latitude":5.49875,
+    "geom:longitude":34.77231,
+    "iso:country":"SS",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12558016: name \"Nanyangachor\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12558016"
+        },
+        {
+            "citation":"GeoNames populated place 12558016: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12558016"
+        },
+        {
+            "citation":"GeoNames populated place 12558016: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12558016"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091914791 (Kapoeta East), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657,
+        85676975,
+        102191573,
+        1091914791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12558016
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"4fc452ac8bb03e2833dab979c33373d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914791,
+            "locality_id":9895057415,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":9895057415,
+    "wof:lastmodified":1795735094,
+    "wof:name":"Nanyangachor",
+    "wof:parent_id":1091914791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.77231,
+    5.49875,
+    34.77231,
+    5.49875
+],
+  "geometry": {"coordinates":[34.77231,5.49875],"type":"Point"}
+}

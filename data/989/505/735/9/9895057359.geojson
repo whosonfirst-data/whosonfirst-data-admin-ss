@@ -1,0 +1,74 @@
+{
+  "id": 9895057359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.00771,9.83918,32.00771,9.83918",
+    "geom:latitude":9.83918,
+    "geom:longitude":32.00771,
+    "iso:country":"SS",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 375458: name \"Fashoda\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/375458"
+        },
+        {
+            "citation":"GeoNames populated place 375458: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/375458"
+        },
+        {
+            "citation":"GeoNames populated place 375458: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/375458"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091913653 (Fashoda), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657,
+        85676953,
+        102191573,
+        1091913653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375458
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"a171933124d117bcb82a890c937afe24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913653,
+            "locality_id":9895057359,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":9895057359,
+    "wof:lastmodified":1795735094,
+    "wof:name":"Fashoda",
+    "wof:parent_id":1091913653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.00771,
+    9.83918,
+    32.00771,
+    9.83918
+],
+  "geometry": {"coordinates":[32.00771,9.83918],"type":"Point"}
+}

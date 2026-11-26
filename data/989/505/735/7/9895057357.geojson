@@ -1,0 +1,74 @@
+{
+  "id": 9895057357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7795,3.68957,30.7795,3.68957",
+    "geom:latitude":3.68957,
+    "geom:longitude":30.7795,
+    "iso:country":"SS",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 369869: name \"Morobo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/369869"
+        },
+        {
+            "citation":"GeoNames populated place 369869: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/369869"
+        },
+        {
+            "citation":"GeoNames populated place 369869: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/369869"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091914975 (Morobo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657,
+        85676947,
+        102191573,
+        1091914975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369869
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d593b7d703dfe3d49b73b657fbfbe137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914975,
+            "locality_id":9895057357,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":9895057357,
+    "wof:lastmodified":1795735094,
+    "wof:name":"Morobo",
+    "wof:parent_id":1091914975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7795,
+    3.68957,
+    30.7795,
+    3.68957
+],
+  "geometry": {"coordinates":[30.7795,3.68957],"type":"Point"}
+}

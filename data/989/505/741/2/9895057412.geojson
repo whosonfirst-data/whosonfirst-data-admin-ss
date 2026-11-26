@@ -1,0 +1,74 @@
+{
+  "id": 9895057412,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.64689,5.46908,34.64689,5.46908",
+    "geom:latitude":5.46908,
+    "geom:longitude":34.64689,
+    "iso:country":"SS",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12558013: name \"Namorupus\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12558013"
+        },
+        {
+            "citation":"GeoNames populated place 12558013: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12558013"
+        },
+        {
+            "citation":"GeoNames populated place 12558013: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12558013"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091914791 (Kapoeta East), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657,
+        85676975,
+        102191573,
+        1091914791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12558013
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"2d63385b3752c73bedf329cae112fc45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914791,
+            "locality_id":9895057412,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":9895057412,
+    "wof:lastmodified":1795735094,
+    "wof:name":"Namorupus",
+    "wof:parent_id":1091914791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.64689,
+    5.46908,
+    34.64689,
+    5.46908
+],
+  "geometry": {"coordinates":[34.64689,5.46908],"type":"Point"}
+}
