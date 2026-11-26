@@ -1,0 +1,74 @@
+{
+  "id": 9895057378,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.48654,4.22762,33.48654,4.22762",
+    "geom:latitude":4.22762,
+    "geom:longitude":33.48654,
+    "iso:country":"SS",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12547711: name \"Homiri\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12547711"
+        },
+        {
+            "citation":"GeoNames populated place 12547711: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12547711"
+        },
+        {
+            "citation":"GeoNames populated place 12547711: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12547711"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091913493 (Budi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657,
+        85676975,
+        102191573,
+        1091913493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12547711
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"a54d30c785efd0f315b35d11005c783e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913493,
+            "locality_id":9895057378,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":9895057378,
+    "wof:lastmodified":1795735094,
+    "wof:name":"Homiri",
+    "wof:parent_id":1091913493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.48654,
+    4.22762,
+    33.48654,
+    4.22762
+],
+  "geometry": {"coordinates":[33.48654,4.22762],"type":"Point"}
+}

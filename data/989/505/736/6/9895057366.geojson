@@ -1,0 +1,74 @@
+{
+  "id": 9895057366,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.00041,4.25449,31.00041,4.25449",
+    "geom:latitude":4.25449,
+    "geom:longitude":31.00041,
+    "iso:country":"SS",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 10123497: name \"Mulusuk\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/10123497"
+        },
+        {
+            "citation":"GeoNames populated place 10123497: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/10123497"
+        },
+        {
+            "citation":"GeoNames populated place 10123497: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/10123497"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091913733 (Lainya), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657,
+        85676947,
+        102191573,
+        1091913733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10123497
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d6a5555fc7db8278aba1d74d2e98c128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913733,
+            "locality_id":9895057366,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":9895057366,
+    "wof:lastmodified":1795735094,
+    "wof:name":"Mulusuk",
+    "wof:parent_id":1091913733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.00041,
+    4.25449,
+    31.00041,
+    4.25449
+],
+  "geometry": {"coordinates":[31.00041,4.25449],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895057434,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.46667,4.91667,29.46667,4.91667",
+    "geom:latitude":4.91667,
+    "geom:longitude":29.46667,
+    "iso:country":"SS",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13132870: name \"Maridi Centre\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13132870"
+        },
+        {
+            "citation":"GeoNames populated place 13132870: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13132870"
+        },
+        {
+            "citation":"GeoNames populated place 13132870: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13132870"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091914455 (Maridi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657,
+        85676945,
+        102191573,
+        1091914455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13132870
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"3f306b3efa55195f6425e8b12aa7c84b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914455,
+            "locality_id":9895057434,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":9895057434,
+    "wof:lastmodified":1795735094,
+    "wof:name":"Maridi Centre",
+    "wof:parent_id":1091914455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.46667,
+    4.91667,
+    29.46667,
+    4.91667
+],
+  "geometry": {"coordinates":[29.46667,4.91667],"type":"Point"}
+}
